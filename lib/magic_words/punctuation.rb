@@ -29,7 +29,7 @@ module MagicWords
     OPEN_SQUARE_BRACKET = '['
     CLOSE_SQUARE_BRACKET = ']'
     OPEN_CURLY_BRACKET = '{'
-    CLOSE_CURLY_BRACKEt = '}'
+    CLOSE_CURLY_BRACKET = '}'
     OPEN_ANGLE_BRACKET = '<'
     CLOSE_ANGLE_BRACKET = '>'
 
